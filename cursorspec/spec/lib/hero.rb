@@ -4,4 +4,9 @@ class Hero
   def initialize
     @weapon = 'sword'
   end
+
+  def hp
+    @hp = 1001
+  end
+
 end
