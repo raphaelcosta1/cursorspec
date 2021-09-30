@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'hero'
+require_relative 'hero'
 
 describe Hero do
   it 'has a sword'
