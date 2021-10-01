@@ -8,5 +8,4 @@ class Hero
   def hp
     @hp = 1001
   end
-
 end
